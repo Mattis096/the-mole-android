@@ -6,6 +6,8 @@
 
 **The Mole** est une application Android de jeu de rôle caché (inspirée de *The Resistance/Avalon*), conçue comme un terminal tactique cyber-punk. Elle transforme un smartphone en un outil d'immersion totale pour orchestrer des missions secrètes, des sabotages et des déductions sociales.
 
+[Télécharger l'APK](https://github.com/Mattis096/the-mole-android/releases)
+
 ---
 
 ## Points Forts & UX
